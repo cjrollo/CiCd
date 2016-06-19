@@ -9,3 +9,5 @@ All of the files included in the .zip file (available to Plus subscribers) shoul
 Initializing a Git repo and making a remote of it on GitHub are explained in Module 2 of the course. Check out question #2423777 on stackoverflow.com.
 
 The viewer should have Git installed and have a GitHub account. In addition, you will need to link your GitHub account with the CI system and Docker Hub.
+
+Make sure to be careful on the DOCKER_HUB_TRIGGER env variable.
